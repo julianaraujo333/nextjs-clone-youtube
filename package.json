@@ -9,8 +9,23 @@
   },
   "dependencies": {
     "@material-ui/core": "^4.11.3",
-    "next": "10.0.7",
-    "react": "17.0.1",
-    "react-dom": "17.0.1"
-  }
+    "@material-ui/icons": "^4.11.2",
+    "create-next-app": "^10.0.7",
+    "next": "^10.0.7",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  },
+  "description": "This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/julianaraujo333/nextjs-clone-youtube.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/julianaraujo333/nextjs-clone-youtube/issues"
+  },
+  "homepage": "https://github.com/julianaraujo333/nextjs-clone-youtube#readme"
 }
